@@ -1,5 +1,0 @@
-#1040 G1
-
-Boot Mode==UEFI Native (Without CSM)
-SecureBoot==Enable
-

@@ -1,5 +1,0 @@
-#ProDesk 600 G3 MT
-
-Configure Legacy Support and Secure Boot==Legacy Support Disable and Secure Boot Enable
-
-

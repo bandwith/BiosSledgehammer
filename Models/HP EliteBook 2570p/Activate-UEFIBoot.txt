@@ -1,5 +1,0 @@
-#2570p
-
-Boot Mode==UEFI Native (Without CSM)
-SecureBoot==Enable
-

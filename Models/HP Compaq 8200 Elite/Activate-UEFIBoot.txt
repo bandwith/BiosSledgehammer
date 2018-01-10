@@ -1,6 +1,0 @@
-#Elite 8200
-
-#Legacy Support==Disable
-Secure Boot==Enable
-
-

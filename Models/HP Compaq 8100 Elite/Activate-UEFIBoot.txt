@@ -1,6 +1,0 @@
-#Elite 8100
-
-#Legacy Support==Disable
-Secure Boot==Enable
-
-

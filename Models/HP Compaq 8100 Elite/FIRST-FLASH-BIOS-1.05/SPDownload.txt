@@ -1,3 +1,0 @@
-
-SPaqURL==https://ftp.hp.com/pub/softpaq/sp48501-49000/sp48930.exe
-NoteURL==https://ftp.hp.com/pub/softpaq/sp48501-49000/sp48930.html

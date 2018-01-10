@@ -1,6 +1,0 @@
-#Pro 6300
-
-Legacy Support==Disable
-Secure Boot==Enable
-
-
