@@ -1,0 +1,10 @@
+# EliteBook 1040 G4 ME Update
+
+# The ME firmware version the device should have
+Version == 11.8.50.3425
+
+#Command to be executed for the ME update
+Command==silent.bat
+
+#Arg1 == /app Update.bat
+#Arg2 == /hide
