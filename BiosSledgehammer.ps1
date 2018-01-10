@@ -87,7 +87,7 @@ write-host $banner
 
 #Configure which BCU version to use 
 #Version 2.45 and upwards: BCU 4.0.21.1
-Set-Variable BCU_EXE_SOURCE "$PSScriptRoot\BCU-4.0.21.1\BiosConfigUtility64.exe" -option ReadOnly -Force
+Set-Variable BCU_EXE_SOURCE "$PSScriptRoot\BCU-4.0.24.1\BiosConfigUtility64.exe" -option ReadOnly -Force
   #for testing if the arguments are correctly sent to BCU
   #Set-Variable BCU_EXE "$PSScriptRoot\4.0.15.1\EchoArgs.exe" -option ReadOnly -Force
 
