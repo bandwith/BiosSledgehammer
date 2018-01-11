@@ -1,2 +1,0 @@
-SPaqURL==http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84460.exe
-NoteURL==http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84460.html

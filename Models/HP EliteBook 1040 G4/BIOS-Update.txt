@@ -1,18 +1,20 @@
 # EliteBook 1040 G4 BIOS Update
 
 #The BIOS version the device should be on
-Version == 1.03
+Version == 1.13
 
 #Command to be executed for the BIOS update
-Command==HPQFlash\hpqFlash.exe
+Command==HPBIOSUPDREC64.exe
 
 # Silent
-Arg1 == -s
+Arg1==-s
 
 # Password file (will be removed if empty password)
-Arg2 == -p"@@PASSWORD_FILE@@"
+Arg2==-p"@@PASSWORD_FILE@@"
+
+# Suspend Bitlocker
+Arg3==-b
 
 # Not supported
 # Do not restart automatically
-#Arg3 == -r
-
+#Arg4 == -r
