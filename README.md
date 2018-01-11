@@ -5,7 +5,7 @@ Automated BIOS, ME, TPM firmware update and BIOS settings for HP devices.
             _
     jgs   ./ |    
          /  /    BIOS Sledgehammer  
-       /'  /     Copyright © 2015-2017 Michael 'Tex' Hex  
+       /'  /     Copyright © 2015-2018 Michael 'Tex' Hex  
       /   /      
      /    \      https://github.com/texhex/BiosSledgehammer
     |      ``\     
@@ -153,7 +153,7 @@ The ``\PwdFiles`` folder stores all BIOS passwords that your devices might use. 
 
 The order, in which they are tried, is determined by sorting the files by name: a file called *01_Standard.bin* is tried before *02_Standard.bin*. The most commonly used password should always come first because some BIOS versions enforce how many times you can try a wrong BIOS password. When this limit is reached, any password is rejected until the computer is restarted. 
 
-To create a password file, execute ``HPQPswd64.exe`` (found in the BCU folder) and save the file to the ``\PwdFiles`` folder as *.BIN file.  
+To create a password file, execute ``HPQPswd64.exe`` or ``HPQPswd.exe`` (found within the respective BIOS SoftPaq) and save the file to the ``\PwdFiles`` folder as *.BIN file.
 
 
 ## <a name="biosupdate">BIOS Update</a>
